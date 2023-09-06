@@ -5,7 +5,7 @@
   "main": "dist/vue-awesome-sidebar.cjs",
   "module": "dist/vue-awesome-sidebar.js",
   "type": "module",
-  "description": "Modern Vue 3 Sidebar Module",
+  "description": "Modern Vue 3 Sidebar Fork",
   "author": "AmirKian Adl <amircc1200@gmail.com>",
   "license": "MIT",
   "types": "./types/index.d.ts",
